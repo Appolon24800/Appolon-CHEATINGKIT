@@ -32,7 +32,7 @@ cls
 :start
 mkdir C:\Users\%username%\AppolonKIT\LegitFolder
 color 06
-set ver=2.1 (Vape disabled)
+set ver=2.2
 
 
 mkdir C:\Users\%username%\AppolonKIT\LegitFolder
@@ -45,9 +45,9 @@ echo Version = %ver%
 echo Appolon-Cheat KIT %ver% 
 echo _____________________________
 echo.
-echo ***Normaly*** all files is safe
+echo ***Normaly*** all files are safe
 echo.
-echo Only the scrypt is made by Appolon#2523 
+echo.
 echo Hi %username% welcome to your daily dose of cheating 
 Title Appolon-Cheat KIT %ver%
 pause >nul
@@ -120,13 +120,13 @@ exit
 cls
 mode 97,8
 color 01
-title Vape Lite... (DISABLED FOR THE MOMENT)
+title Vape Lite... 
 echo You can download Vape Lite or V4 but you need to be loginon Vape.gg (not a crack xD)
 echo If you have some issue make a issue on github !!
 pause >nul
 del /s /F /Q C:\Users\%username%\AppolonKIT\LegitFolder\lite-legitclient.exe >nul
 cls 
-curl -g -k -L -# -o "C:\Users\%username%\AppolonKIT\LegitFolder\lite-legitclient.exe" "https://github.com/Appolon24800/Appolon-UPLOAD/raw/main/lite-legitclient.exe" >nul 
+curl -g -k -L -# -o "C:\Users\%username%\AppolonKIT\LegitFolder\lite-legitclient.exe" "https://github.com/Appolon24800/Appolon-CHEATINGKIT/raw/main/assets/lite-legitclient.exe" >nul 
 echo Download good :-] (Vape Lite)
 pause >nul
 start lite-legitclient.exe
@@ -136,13 +136,13 @@ exit
 cls
 mode 97,8
 color 01
-title Vape V4... (DISABLED FOR THE MOMENT)
+title Vape V4... 
 echo You can download Vape Lite or V4 but you need to be loginon Vape.gg (not a crack xD)
 echo If you have some issue make a issue on github !!
 pause >nul
 del /s /F /Q C:\Users\%username%\AppolonKIT\LegitFolder\v4-legitclient.exe >nul
 cls 
-curl -g -k -L -# -o "C:\Users\%username%\AppolonKIT\LegitFolder\v4-legitclient.exe" "https://github.com/Appolon24800/Appolon-UPLOAD/raw/main/V4-legitclient.exe" >nul 
+curl -g -k -L -# -o "C:\Users\%username%\AppolonKIT\LegitFolder\v4-legitclient.exe" "https://github.com/Appolon24800/Appolon-CHEATINGKIT/raw/main/assets/V4-legitclient.exe" >nul 
 echo Download good :-] (VapeV4)
 pause >nul
 start v4-legitclient.exe
@@ -169,10 +169,10 @@ echo My minecraft server: https://dsc.gg/ALpractice
 echo.
 pause >nul
 cls
-start https://Paypal.me/Appolon24800
+start https://appolon24800.github.io/
 echo lol
 pause >nul
-start https://discord.com/invite/rnwXunAFdJ
+start https://dsc.gg/bwbl
 cls
 goto Main
 
